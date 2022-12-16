@@ -44,7 +44,7 @@ const Home: NextPage = () => {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                built with @_buildspace by Anurag Sharma ❤️❤️ N
+                built with @_buildspace by Anurag Sharma ❤️❤️
               </a>
             </Box>
           </Center>
