@@ -1,0 +1,17 @@
+{
+  "program": {
+    "candyMachine": "8gFHyS9TG24aB6yw6qi5ixutR8rhCJN6hdfFHEHYRWvh",
+    "candyMachineCreator": "CikkqfhChLVX1FfWqNE41dxpWnNzoiCxQkcgj2x4NZYM",
+    "collectionMint": ""
+  },
+  "items": {
+    "0": {
+      "name": "Studious Crab #1",
+      "image_hash": "21ed4fe022748c6fa23ae22c03cc5d6cc90211b1ed34900802a28be61795d8df",
+      "image_link": "https://arweave.net/PNP_B7YUr-sLAMSxD8-uGKhv2aMYXJY4WmDkkRB5QM4?ext=png",
+      "metadata_hash": "c826d42c62478344eee7987bf8648449982683f750ae2df74880eb3b4441c212",
+      "metadata_link": "https://arweave.net/25LAsAHA-Umel3VDVLBvVRlmgA1k-l0rjQG0MCk-h1E",
+      "onChain": true
+    }
+  }
+}
